@@ -1,6 +1,6 @@
 # Wireless Hallucination in Generative AI-enabled Communications: Concepts, Issues, and Solutions
 ## Dataset
-Link:https://1024terabox.com/s/18Pav2SoxU5ZyGFTfLDXkyQ Passport:87he
+Link:https://1024terabox.com/s/18Pav2SoxU5ZyGFTfLDXkyQ Passport:87he 
 
 ## References of Causes of Hallucinations in GenAI
 [A1] D.P. Kingma et al., "Auto-encoding variational bayes," 20 Dec. 2013
