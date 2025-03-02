@@ -1,5 +1,7 @@
 # Wireless Hallucination in Generative AI-enabled Communications: Concepts, Issues, and Solutions
 ## Dataset
+We constructed the channel dataset used for training the model in the paper, as shown below:
+
 Link: https://1024terabox.com/s/1iJxp0qAFuClpn-KDJgY1rA Passport:e6ct
 
 ## References of Causes of Hallucinations in GenAI
